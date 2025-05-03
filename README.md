@@ -10,7 +10,7 @@ but I code to learn, to grow, and sometimes... just to keep my mind from overthi
 
 ### ✨ A few things about me:
 
-- Learning Go and trying out random tech stuff — mostly self-taught, sometimes with googling and stackoverflow help.
+- Learning Go and trying out random tech stuff — mostly self-taught, sometimes with Community and stackoverflow help.
 - My projects may look simple — because I'm building my knowledge step by step.
 - Sometimes I code just for fun, not for flash.
 
