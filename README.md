@@ -3,6 +3,7 @@
 
 Welcome to my little corner on GitHub.  
 I’m casually learning programming while figuring out life — one line of code at a time.
+Apologies for using a lot of Bahasa Indonesia earlier. Sometimes I express things better in my native language, but I’ll switch it up if needed.
 
 ### 🔧 Currently Exploring:
 - **Golang** – trying to understand what powers systems behind the scenes
