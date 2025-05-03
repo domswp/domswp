@@ -1,25 +1,37 @@
+# Hey, I'm just learning...
 
-## 👋 Hey there! I'm Domswp.
+Welcome to my little corner of GitHub.  
+This isn't a showcase of fancy projects, but a collection of honest steps in my learning journey.
 
-Welcome to my little corner on GitHub.  
-I’m casually learning programming while figuring out life — one line of code at a time.
+I'm not a professional developer (yet),  
+but I code to learn, to grow, and sometimes... just to keep my mind from overthinking.
 
-Apologies for using a lot of Bahasa Indonesia earlier. Sometimes I express things better in my native language, but I’ll switch it up if needed.
+---
 
-### 🔧 Currently Exploring:
-- **Golang** – trying to understand what powers systems behind the scenes
-- **AI & Agents** – building mini assistants and experimenting with LLMs
-- **Discord** - Exploring about development discord APPS
+### ✨ A few things about me:
 
-### 🧾 Highlighted Projects:
-- [Terminal Salary Slip Generator] (https://github.com/domswp/go-slipgaji-terminal): input data, print clean salary slip in terminal, this project for education
-- [Freya AI Avatar](#): virtual partner? AI mirror? Something in-between. right now freya is available privately just for me
-- [BASIC Languange Interpretation]: This project just for fun, goal is to learn about basic languange - Work in progress
+- Learning Go and trying out random tech stuff — mostly self-taught, sometimes with googling and stackoverflow help.
+- My projects may look simple — because I'm building my knowledge step by step.
+- Sometimes I code just for fun, not for flash.
 
-### 🎮 Other Interests:
-I'm a collector of Gundam, Figma, SHF Kamen Riders, Digimon, Pokémon cards, and digital collectibles like VeVe.  
-Because sometimes, for me collecting heals more than therapy.
-i'am interest deep to about old computing stuff
+---
+
+### 📦 Why is this GitHub full of “basic” stuff?
+
+Because I believe in *learning out loud*.  
+Why wait until I’m “great” to share, when I can share *while* becoming better?
+
+> "If you find something useful here, that’s awesome.  
+> If not, no worries — I’m just figuring things out."
+
+---
+
+### ⚡ Pinned Projects
+
+> They may be small, but they’re real.  
+> Built with effort and curiosity 
+
+---
 
 ### 🌱 Life Time Quote:
 > _"My life is nothing. Giving the future to those who need it... is everything."_  
@@ -27,4 +39,6 @@ i'am interest deep to about old computing stuff
 
 ---
 
-Feel free to check out my projects, or hit me up if you’re into tech, old computing stuff , or just vibin’ with it.
+Thanks for stopping by.  
+Remember: growth is messy, code is art, and we’re all just figuring it out.
+
